@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" alt="Alka Tiwari - Cloud & IT Infrastructure" width="100%"/>
+<img src="profile-hero.svg" alt="Alka Tiwari - Cloud & IT Infrastructure" width="100%"/>
 
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
