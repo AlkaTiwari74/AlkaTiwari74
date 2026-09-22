@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://alkatiwari74.github.io/Portfolio">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -34,7 +34,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AlkaTiwari74&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
@@ -496,9 +496,9 @@ I want to use my BCA journey to progressively move from fundamentals to practica
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlkaTiwari74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlkaTiwari74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="170"/>
 
 </div>
 
@@ -506,7 +506,7 @@ I want to use my BCA journey to progressively move from fundamentals to practica
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlkaTiwari&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" width="70%"/>
 
 </div>
 
@@ -520,11 +520,11 @@ I want to use my BCA journey to progressively move from fundamentals to practica
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/alka-tiwari-724552423?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="[YOUR_PORTFOLIO_URL](https://alkatiwari74.github.io/Portfolio)">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
